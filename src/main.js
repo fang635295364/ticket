@@ -7,7 +7,7 @@ import './styles/index.css'
 
 
 Vue.config.productionTip = false
-Vue.use(ElementUI, { locale })
+
 
 new Vue({
   router,

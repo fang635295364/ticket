@@ -1,6 +1,6 @@
 <template>
   <div>
-    消息页
+    首页
     <index></index>
   </div>
 </template>
