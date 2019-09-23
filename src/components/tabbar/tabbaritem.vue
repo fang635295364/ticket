@@ -19,7 +19,7 @@ export default {
   props: {
     path: {
       type: String,
-      default: "/idx"
+      default: "/home"
     }
   },
   methods: {

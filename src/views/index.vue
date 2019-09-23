@@ -1,7 +1,7 @@
 <template>
   <div>
     <tabbar>
-      <tabbaritem path="/idx">
+      <tabbaritem path="/home">
         <img src="../assets/imgs/icon/shouye.png" alt slot="img" />
         <img src="../assets/imgs/icon/shouye.png" alt slot="activeimg" />
         <div slot="tit">推荐</div>

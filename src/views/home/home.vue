@@ -1,6 +1,6 @@
 <template>
   <div>
-    首页
+    wjh负责
     <index></index>
   </div>
 </template>
