@@ -5,6 +5,7 @@ import ElementUI from 'element-ui'
 import store from './store/store'
 import './styles/index.css'
 import 'amfe-flexible'
+import 'element-ui/lib/theme-chalk/index.css';
 
 Vue.config.productionTip = false
 

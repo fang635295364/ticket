@@ -1,0 +1,162 @@
+.home-service ul:after {
+    content: "";
+    clear: both;
+    display: block;
+  }
+  .home-top {
+    width: 100%;
+    height: 44px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    color: #262626;
+    line-height: 35px;
+    background-color: #fff;
+    text-align: center;
+  }
+  .home-top-di1 {
+    width: 56px;
+    margin-right: 9px;
+    padding-top: 5px;
+    padding-left: 7px;
+  }
+  .home-top-di2 {
+    width: 243px;
+    height: 34px;
+    background-color: #f5f5f5;
+    margin-top: 5px;
+    border-radius: 17px;
+  }
+  .home-top-di2 input {
+    border: none;
+    background-color: #f5f5f5;
+    margin-left: 18.5px;
+  }
+  .home-top-di2 span {
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+  .home-top-di3 {
+    padding-top: 5px;
+    width: 57px;
+    font-size: 20px;
+  }
+  .home-swiper {
+    width: 343px;
+    height: 104px;
+    margin: 16px 16px 0 16px;
+  }
+  .home-swiper img {
+    width: 343px;
+    height: 104px;
+    border-radius: 8px;
+  }
+  .swiper-container > .swiper-pagination > .swiper-pagination-bullet {
+    width: 10px;
+    height: 2px;
+    background-color: #fff;
+    opacity: 0.4;
+  }
+  .swiper-container > .swiper-pagination > .swiper-pagination-bullet-active {
+    opacity: 1;
+  }
+  .home-entries-item {
+    width: 68.6px;
+    text-align: center;
+    font-size: 13px;
+    color: #444;
+    margin-top: 22px;
+  }
+  .home-entries-item img {
+    width: 42px;
+    height: 42px;
+  }
+  .home-entries {
+    width: 343px;
+    margin: 2px 16px 0 16px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .home-operating {
+    width: 343px;
+    margin: 24px 16px 0 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .home-operating-item {
+    width: 165px;
+    font-size: 12px;
+    color: #666;
+    font-weight: 400;
+    display: flex;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.07);
+  }
+  .home-operating-item > div:first-child {
+    padding-top: 16px;
+    padding-left: 12px;
+  }
+  .home-operating-item > div:first-child img {
+    width: 80px;
+    height: 14px;
+    margin-bottom: 7px;
+  }
+  .home-operating-item > div:last-child img {
+    width: 80px;
+    height: 59px;
+    margin-top: 9px;
+  }
+  .home-operating > div:first-child {
+    background: url(https://assets.piaoniu.com/home/op1-bgtext@3x.png) no-repeat;
+    background-size: 70px 16px;
+    background-position: 84px -1px;
+  }
+  .home-operating > div:last-child {
+    background: url(https://assets.piaoniu.com/home/op2-bgtext@3x.png) no-repeat;
+    background-size: 70px 16px;
+    background-position: 84px -1px;
+  }
+  .home-service {
+    width: 343px;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 8px;
+    margin: 20px 16px 0 16px;
+    background: hsla(0, 0%, 96%, 0.53);
+    border-radius: 2px;
+    display: flex;
+    font-size: 12px;
+  }
+  .home-service > div {
+    color: #666;
+    font-weight: 500;
+    width: 48px;
+    height: 32px;
+  }
+  .home-service > ul {
+    display: flex;
+    margin-left: 80px;
+  }
+  .home-service > ul > li {
+    height: 32px;
+    text-align: center;
+    color: #999;
+    display: flex;
+  }
+  .home-service > ul > li > span {
+    margin: 0 12px;
+  }
+  .home-discover{
+    width: 345px;
+    height: 40px;
+    line-height: 40px;
+    border:1px solid #f5f5f5;
+    color:#262626;
+    text-align: center;
+    margin:24px 14px;
+    font-size: 14px;
+    background: url('../assets/imgs//home/right.png') no-repeat;
+    background-position: 0 0;
+    background-size:7px 10px; 
+  }
