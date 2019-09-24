@@ -12,4 +12,7 @@ export default {
 </script>
 
 <style>
+div{
+  font-size: 24px;
+}
 </style>
