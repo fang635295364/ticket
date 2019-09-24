@@ -1,11 +1,15 @@
 <template>
   <div id="app">
-    <router-view />
+    <idx></idx>
   </div>
 </template>
 <script>
+import idx from "./views/index"
 export default {
-  name: "App"
+  name: "App",
+  components:{
+    idx
+  }
 };
 </script>
 

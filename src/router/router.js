@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import index from '../views/index.vue'
 
 const idx = () => import("../views/index.vue")
 const home = () => import("../views/home/home.vue")
@@ -16,7 +15,7 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
-    { path: "/", redirect: "/idx" },
+    { path: "/", redirect: "/home" },
     { path: "/idx", component: idx },
     { path: "/home", component: home },
     { path: "/list", component: list },
