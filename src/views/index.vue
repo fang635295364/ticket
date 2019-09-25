@@ -1,6 +1,6 @@
 <template>
   <div>
-    <tabbar>
+    <tabbar  v-show="$route.meta.navShow">
       <tabbaritem path="/home">
         <img src="../assets/imgs/icon/shouye.png" alt slot="img" />
         <img src="../assets/imgs/icon/shouye.png" alt slot="activeimg" />
