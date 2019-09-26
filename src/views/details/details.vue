@@ -11,7 +11,7 @@ export default {
 };
 </script>
 
-<style  scoped>
+<style>
 div{
   font-size: 24px;
 }

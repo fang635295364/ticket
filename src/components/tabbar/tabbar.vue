@@ -20,6 +20,5 @@ export default {
   background: #fff;
   padding-top:5px; 
   border-top: 1px solid #ccc; 
-  z-index: 999;
 }
 </style>

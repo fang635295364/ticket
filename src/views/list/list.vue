@@ -1,23 +1,16 @@
 <template>
-  <div id="div">
-    <dbss></dbss>
-    <xxka></xxka>
+  <div>
+    全部演出
+    
   </div>
 </template>
 
 <script>
-import dbss from "./list_zu/dbss/dingbu";
-import xxka from "./list_zu/xxk/xxka";
-
 
 export default {
-  components: {
-    dbss,
-    xxka
-
-  }
+  
 };
 </script>
 
-<style scoped>
+<style>
 </style>
