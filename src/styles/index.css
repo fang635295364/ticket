@@ -7,6 +7,6 @@ img{
 border:0;
 }
 ol, ul ,li{list-style: none;} 
-input{
-    outline:none;
+body{
+    font-size: 12px!important;
 }

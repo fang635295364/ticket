@@ -17,13 +17,9 @@ export default {
   bottom: 0;
   left:0;
   right:0;
-  background-color: #fff;
+  background: #fff;
   padding-top:5px; 
   border-top: 1px solid #ccc; 
-<<<<<<< HEAD
-  z-index: 9999999;
-=======
   z-index: 999;
->>>>>>> yy.9.25
 }
 </style>
